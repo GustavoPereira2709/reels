@@ -1,0 +1,7 @@
+# arquivos locais de montagem (não publicar)
+__pycache__/
+*.py
+frames/
+music/
+out/
+out_v/
